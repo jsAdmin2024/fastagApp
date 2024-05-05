@@ -1,1 +1,1 @@
-this is fastag project
+This is fastag project developed in Angular
